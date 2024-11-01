@@ -2,17 +2,21 @@
 
 ###
 
-<p align="left">Literally Developer</p>
+<p align="left">Software Developer (Literally)</p>
 
 ###
 
-<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJua2dsaDRoaTBjMzVqejlkdDNyejM0dWhlY3R3Y2pkbG5mMml3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif"  />
+<p align="left">Profile Visitor</p>
 
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/fachrul777/count.svg?"  />
 </div>
+
+###
+
+<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZiY3d4dDQ4aThrOTl1NzgwdmV6eXlvaDZxM3hoZHI2d2R2amh5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hs2IeXgKjuFYB8KAF8/giphy.gif"  />
 
 ###
 
@@ -28,6 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
 </div>
 
 ###
