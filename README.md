@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Profile Visitor</p>
+<!-- <p align="left">Profile Visitor</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 <img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZiY3d4dDQ4aThrOTl1NzgwdmV6eXlvaDZxM3hoZHI2d2R2amh5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hs2IeXgKjuFYB8KAF8/giphy.gif"  />
 
-###
+### -->
 
 <p align="left">Tech Stack</p>
 
